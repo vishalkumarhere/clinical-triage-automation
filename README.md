@@ -10,6 +10,6 @@ on the live demo is illustrative synthetic data modeled on publicly described
 oncology infusion and referral scheduling workflows. No real order data, PHI, or
 Epic data is used.
 
-Live demo: see the deployed link in the repo description.
+Live demo: https://clinical-triage-automation.vercel.app
 
 Stack: Python, Flask, LLM prompt chain, rules engine, inline SVG/HTML dashboard.
